@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+#nav{
+    text-align: center;
+    background-color: rgb(248, 213, 219);
+    padding: 10px;
+
+}
+
+.anchor{
+    text-decoration: none;
+    color: rgb(189, 134, 143);
+    font-size: 20px;
+    margin: 20px;
+    padding: 10px;
+
+}
+#header{
+    text-align: center;
+    color:rgb(189, 134, 143);
+}
+
+.image{
+    width: 400px;
+    height: 400px;
+    text-align: center;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+.product1{
+    font-size: 20px;
+    font-weight:  bolder;
+
+}
+
+.price{
+    font-size: 20px;
+    font-weight: bolder;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.free-shipping{
+    background-color:rgb(248, 213, 219);
+    color: rgb(168, 122, 130);
+    margin-left: 600px;
+    margin-right:600px;
+}
+
+.desc{
+    font-size: 18px;
+    weight: bolder;
+}
+
+.anchor-tab{
+
+    text-decoration: none;
+    color:rgb(189, 134, 143);
+}
+
+.words{
+    text-align: center;
+
+}
+
+.spacing-out{
+    background-color:rgb(248, 213, 219)
+}
+
