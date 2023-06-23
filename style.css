@@ -1,31 +1,33 @@
 body{
-    background-color:beige
+    background-color:beige;
 
 }
 
 img{
     height: 100px;
-    width 100px;
+    width: 110px;
 }
 
 h1{
     text-align: center;
     font-size: 45px;
-    color: pink;
-    background-color:rgb(114, 30, 30);
+    color:rgb(218, 161, 170);
+    background-color:rgb(255, 244, 230);
+    border: 4px double rgb(218, 161, 170);
+    
 }
 
 p{
-    font size: 25px;
-    color: pink;
-    background-color: rgb(114, 30, 10);
+    font-size: 25px;
+    color: rgb(255, 161, 170);
+    background-color: rgb(255,244,230);
     text-align: center;
-
+    border: 4px double rgb(187, 106, 118);
     
 }
 
 li{
 
-    color: pink;
-    background-color: rgb(114, 30, 30);
+    color:rgb(218, 161, 170);
+    background-color:rgb(255,244,230);
 }
