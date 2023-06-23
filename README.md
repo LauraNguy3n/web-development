@@ -51,8 +51,16 @@
 
 • Red file:<b> git add .</b>
 
-• Green file: git commit -m""
+• Green file: git commit -m" "
 
 • Yellow file:<b> git pull</b>
 
 • White file:<b> git push<b>
+
+<h1>Short-Cut keys</h1>
+
+•Ctrl + / = comment
+
+•Alt + up and down key = shifts code up and down
+
+•Alt(and hold) + click = adds another cursor
