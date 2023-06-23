@@ -44,3 +44,15 @@
  
  • Title ( Title tab )
  <b> Tile tab is for naming your website. </b>
+
+<h1> Git Bash </h1>
+
+• <b> git status </b>
+
+• Red file:<b> git add .</b>
+
+• Green file: git commit -m""
+
+• Yellow file:<b> git pull</b>
+
+• White file:<b> git push<b>
