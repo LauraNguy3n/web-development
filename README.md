@@ -59,8 +59,12 @@
 
 <h1>Short-Cut keys</h1>
 
-•Ctrl + / = comment
+• Ctrl + / = comment
 
-•Alt + up and down key = shifts code up and down
+• Alt + up and down key = shifts code up and down
 
-•Alt(and hold) + click = adds another cursor
+• Alt(and hold) + click = adds another cursor
+
+• up arrow key/down arrow key = lets you see your previous code
+
+• tab key = auto completes word in git bash.
