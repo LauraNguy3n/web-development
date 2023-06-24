@@ -1,5 +1,5 @@
 body{
-    background-color:beige;
+    background-color:#f5f5dc;
 
 }
 
@@ -11,23 +11,23 @@ img{
 h1{
     text-align: center;
     font-size: 45px;
-    color:rgb(218, 161, 170);
-    background-color:rgb(255, 244, 230);
-    border: 4px double rgb(218, 161, 170);
+    color:#daa1aa;
+    background-color:#fff4e6;
+    border: 4px double #daa1aa;
     
 }
 
 p{
     font-size: 25px;
-    color: rgb(255, 161, 170);
-    background-color: rgb(255,244,230);
+    color: #daa1aa;
+    background-color: #fff4e6;
     text-align: center;
-    border: 4px double rgb(218, 161, 170);
+    border: 4px double #daa1aa;
     
 }
 
 li{
 
-    color:rgb(218, 161, 170);
-    background-color:rgb(255,244,230);
+    color:#daa1aa;
+    background-color:#fff4e6;
 }
