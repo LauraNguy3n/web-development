@@ -6,7 +6,7 @@
  
  
  • Aligning Text ( Text-align: center )
-<b> Aligning text means to put a text/picture on the center/right/left. </b>
+<b> Aligning text means to put a text/picture on the right, left or center. </b>
 
  
  • Bold ( B tag )
@@ -25,16 +25,22 @@
  <b> Headings are words or phrases that are placed at the top of a page or section of text as a title. </b>
  
  • Images ( Img Src tag )
- <b> You can add any link of a picture for your page with Img src. </b>  
+ <b> You can add any link of a picture for your page with Img src. </b>
 
   •Id ( Id ="#" )
  <b> Id is to select individual codes.</b> 
  
  • Listing ( Li tag )
  <b> Listing tag can have your texts organized-- you may also have bullet points, letters, nummbers, and more. </b>
+
+ • Margin ( Margin: 0; )
+ <b>Margin creates space between the border and the outter space.</b>
  
  • Paragraphs ( P tag )
  <b> You can write a paragraph with a P tag. </b>
+
+ • Padding ( padding: 0; )
+ <b> Padding creates space between the content and border. </b>
  
  • Spacing (&nbsp ;)
 <b> &nbsp ; is equal to a simple space in coding.</b>
@@ -51,7 +57,7 @@
 
 • Red file:<b> git add .</b>
 
-• Green file: git commit -m" "
+• Green file: <b>git commit -m" "</b>
 
 • Yellow file:<b> git pull</b>
 
