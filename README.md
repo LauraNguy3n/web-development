@@ -74,3 +74,13 @@
 • up arrow key/down arrow key = lets you see your previous code
 
 • tab key = auto completes word in git bash.
+
+<h1>other</h1>
+
+Element | padding | margin | width | height | space |
+
+inline  |    ✓    |   ✓   |   ✕   |   ✕  ` |content|
+
+block
+
+
