@@ -87,3 +87,27 @@ block&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓&nbsp
 block&inline&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;✓&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;✓&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;✓&nbsp;&nbsp;&nbsp;|content|
 
 
+<h1>Bootstrap</h1>
+
+• Alert/Notifacation (   < div class="alert alert-dark alert-dismissible fade show" role="alert" >
+            < strong > Example alert title < /strong > Example description warning
+            < button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close">< /button >
+          < /div > )
+
+<b>Pops up a warning/notifacation bar<b>
+
+• Button (class="btn btn-color")
+<b>just a button.<b>
+
+• Card (div class="card-body")
+<b>Adds a card. <b>
+
+• Nav bar ( < nav class="navbar navbar- . . . bg- . . .">
+        < div class="container-fluid" >
+          < a class="navbar-brand" href="#" >
+            < img src=". . ." alt="" width=". . ." height=". . ." class="d-inline-block align-text-top">
+            Title of WEBSITE
+          < /a >
+        < /div >
+      < /nav > )
+      <b>Displays a nav bar on top of your website.<b>
