@@ -111,3 +111,20 @@ block&inline&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;✓&nbsp;&nbsp;&nbsp;&nbs
         < /div >
       < /nav > )
       <b>Displays a nav bar on top of your website.<b>
+
+Background ( Bg )
+<b>A background is the area or scenery behind the main content.<b>
+
+• Font weight ( fw )
+<b>Font weight is for making your text bold, bolder, light, and lighter.<b>
+
+• Text wrap ( Text-wrap )
+<b>Use text wrap to make your text not overflow from it's box.<b>
+
+Word break ( text-break )
+<b>Try text-break in your code so you don't have to scroll to the end of the sentence.<b>
+
+• Text align ( text-start, text-center, text-end )
+<b>Text start puts your text on the left. Text center puts your text in the middle of teh viewer's screen. Text end puts your text on the right.<b>
+
+• 
