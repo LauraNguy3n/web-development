@@ -112,7 +112,7 @@ block&inline&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;✓&nbsp;&nbsp;&nbsp;&nbs
       < /nav > )
       <b>Displays a nav bar on top of your website.<b>
 
-Background ( Bg )
+• Background ( Bg )
 <b>A background is the area or scenery behind the main content.<b>
 
 • Font weight ( fw )
@@ -127,4 +127,16 @@ Word break ( text-break )
 • Text align ( text-start, text-center, text-end )
 <b>Text start puts your text on the left. Text center puts your text in the middle of teh viewer's screen. Text end puts your text on the right.<b>
 
-• 
+
+
+
+<h1>Naming Conventions</h1>
+
+• Uppercase / lowercase
+<b>Uppercase and lowercase doesn't matter. You can use it as much as you would like.<b>
+
+• Number
+<b>You can't use any number on the start. You can use it in any other area.<b>
+
+• Symbols
+<b>You may not use any other symbols besides " - , $ ". Even spaces are not allowed.<b>
