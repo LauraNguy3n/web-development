@@ -23,7 +23,7 @@
 
 //naming conventions to name a  variables
 
-// 1. Uppercase / Lowercase don't matter.
+// 1. Upperca        se / Lowercase don't matter.
 // let LAURANGUYEN = 25;
 // console.log(LAURANGUYEN);
 
@@ -35,3 +35,29 @@
 
 // let 1pthan = 12;
 // console.log(1pthan);
+
+// const age = 17;
+// console.log(age);
+
+// age = 45;
+// console.log(age);
+
+// let wawa = 1000000000000000000;
+// console.log(wawa);
+
+
+
+
+// we dont use data types to declare a variable in javascript like c++
+
+// let age = 40.90;
+// console.log(typeof age);
+
+// let age;
+// console.log(typeof age);
+
+// let age = null;
+// console.log(typeof age);
+
+
+let

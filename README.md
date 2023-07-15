@@ -51,6 +51,12 @@
  • Title ( Title tab )
  <b> Tile tab is for naming your website. </b>
 
+
+
+
+
+
+
 <h1> Git Bash </h1>
 
 • <b> git status </b>
@@ -75,6 +81,16 @@
 
 • tab key = auto completes word in git bash.
 
+
+
+
+
+
+
+
+
+
+
 <h1>other</h1>
 
 Element | padding | margin | width | height | space |
@@ -85,6 +101,16 @@ inline&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓&nbs
 block&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;✓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|whole line|
 
 block&inline&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;✓&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;✓&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;✓&nbsp;&nbsp;&nbsp;|content|
+
+
+
+
+
+
+
+
+
+
 
 
 <h1>Bootstrap</h1>
@@ -130,7 +156,11 @@ Word break ( text-break )
 
 
 
-<h1>Naming Conventions</h1>
+
+
+
+
+<h1>Naming Conventions of javascript variables</h1>
 
 • Uppercase / lowercase
 <b>Uppercase and lowercase doesn't matter. You can use it as much as you would like.<b>
@@ -140,3 +170,48 @@ Word break ( text-break )
 
 • Symbols
 <b>You may not use any other symbols besides " - , $ ". Even spaces are not allowed.<b>
+
+
+
+
+
+
+
+
+<h1>Data types in javascript<h1>
+
+• Numbers
+<b>Integers and decimals<b>
+
+• undefined
+<b>variable is not assigned with any value.<b>
+
+• null
+<b>empty, no value.<b>
+
+• bigInt
+<b>When a number is too big<b>
+
+• string
+<b>words, lines, "  ", '  ' .<b>
+
+• boolean
+<b>true/false<b>
+
+
+
+
+
+
+
+
+<h1>Let, Var, const<h1>
+
+• let
+<b>can change, the cooler way<b>
+
+• const
+<b>cannot change<b>
+
+• var
+<b>can change, the old way<b>
