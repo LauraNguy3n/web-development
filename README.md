@@ -239,7 +239,7 @@ Word break ( text-break )
 
 <h5>example :   age = a + 3; <h5>
 
-<h6>here , a and 3 are operands and + is an operator</h6
+<h6>here , a and 3 are operands and + is an operator</h6>
 
 
 
