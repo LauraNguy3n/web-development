@@ -23,7 +23,7 @@
 
 //naming conventions to name a  variables
 
-// 1. Upperca        se / Lowercase don't matter.
+// 1. Uppercase / Lowercase don't matter.
 // let LAURANGUYEN = 25;
 // console.log(LAURANGUYEN);
 
@@ -60,4 +60,16 @@
 // console.log(typeof age);
 
 
-let
+
+
+
+
+// assignment operator
+
+// let = "age";
+// age = 2 + 4;
+// console.log(age);
+
+let = "age";
+age += 5;
+console.log(age);

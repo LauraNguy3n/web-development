@@ -178,7 +178,7 @@ Word break ( text-break )
 
 
 
-<h1>Data types in javascript<h1>
+<h1>Data types in javascript</h1>
 
 • Numbers
 <b>Integers and decimals<b>
@@ -204,8 +204,7 @@ Word break ( text-break )
 
 
 
-
-<h1>Let, Var, const<h1>
+<h1>Let, Var, const</h1>
 
 • let
 <b>can change, the cooler way<b>
@@ -215,3 +214,37 @@ Word break ( text-break )
 
 • var
 <b>can change, the old way<b>
+
+
+
+
+
+<h1>Random notes</h1>
+
+
+<h3>all the assignment operators expressions executes from right to left</h3>
+
+<h3>age++2; = this is nothing. it will give a error</h3>
+
+
+
+
+<h5>++ is a unary operator.</h5>
+
+<h5>binary operator = +. *, /, - are binary operator because they need two operand to execute.</h5>
+
+<h5>unary operator = is implemented on a single operand</h5>
+
+<h5>operand = numbers, strings, variables which are surrounding the operator</h5>
+
+<h5>example :   age = a + 3; <h5>
+
+<h6>here , a and 3 are operands and + is an operator</h6
+
+
+
+
+
+<h1>assigntment operators:</h1>
+
+<h5>=, +=, -=, *=, /=</h5>
