@@ -70,6 +70,38 @@
 // age = 2 + 4;
 // console.log(age);
 
-let = "age";
-age += 5;
-console.log(age);
+// let = "age";
+// age += 5;
+// console.log(age);
+
+
+
+
+// console.log(5**5);
+// console.log(4+8);
+// console.log(2-4);
+// console.log(2*3);
+// console.log(2/3);
+// console.log(2%3);
+// console.log(a++);
+// console.log(a--);
+
+// you can declare multiple variables in one single line.
+// let a = 4, b = 3, c = 2;
+// console.log(a, b, c)
+
+
+//using var, you can redeclare a variable in javascript and it will update the value of the variable.
+//using let, you CANNOT redeclare a variable in javascript.
+
+
+//using var, this does work.
+//var k = 4;
+//var k = 5;
+//console.log(k);
+
+
+//using let, this does not work.
+//let k = 4;
+//let k = 5;
+//console.log(k);
