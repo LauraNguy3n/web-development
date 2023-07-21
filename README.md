@@ -172,12 +172,6 @@ Word break ( text-break )
 <b>You may not use any other symbols besides " - , $ ". Even spaces are not allowed.<b>
 
 
-
-
-
-
-
-
 <h1>Data types in javascript</h1>
 
 • Numbers
@@ -199,11 +193,6 @@ Word break ( text-break )
 <b>true/false<b>
 
 
-
-
-
-
-
 <h1>Let, Var, const</h1>
 
 • let
@@ -214,9 +203,6 @@ Word break ( text-break )
 
 • var
 <b>can change, the old way<b>
-
-
-
 
 
 <h1>Random notes</h1>
@@ -242,9 +228,8 @@ Word break ( text-break )
 <h6>here , a and 3 are operands and + is an operator</h6>
 
 
-
-
-
 <h1>assigntment operators:</h1>
 
 <h5>=, +=, -=, *=, /=</h5>
+
+

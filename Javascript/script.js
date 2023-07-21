@@ -105,3 +105,121 @@
 //let k = 4;
 //let k = 5;
 //console.log(k);
+
+
+//exponentiation in JavaScript -> **
+// exponentiation in math -> ^
+
+
+//conditional statements in javascripts
+// age = 12;
+// if(age > 18){
+//     console.log("You can vote :D");
+// }
+// else if(age < 18){
+//     console.log("You CANNOT vote");
+// }
+// else{
+//     console.log{"Verify your age."};
+// }
+
+
+// if(2 == 2){
+//     console.log("equal");
+// }
+// else if(2 == 4){
+//     console.log("not equal");
+// }
+// else{
+//     console.log{"unknown"};
+// }
+
+
+// if(2 == 3){
+//     console.log("equal");
+// }
+// if(2 == 4){
+//     console.log("not equal");
+// }
+// if(2 == 5){
+//     console.log("dont know");
+// }
+// if(false == true){
+//     console.log("not possible");
+// }
+// if(true){
+//     console.log("true");
+// }
+// else if(5 != 3){
+//     console.log("not equal 5 and 3");
+// }
+// else if(4 != 4){
+//     console.log("not equal 4 and 4");
+// }
+// else{
+//     console.log("Default value!!");
+// }
+
+
+// w = 12;
+// e = 3;
+// b = 11;
+// if(w == 2 && w < 3){
+//     console.log(w);
+// }
+// if (w != 5){
+//     console.log("whatever");
+// }
+// if(w != 5 && e >= 5){
+//     console.log("Its going to happen");
+// }
+// if(b != 0 || w == 2){
+//     console.log("you say");
+// }
+// if(!e < 10){
+//     console.log(e);
+// }
+
+// else if(w < 10 || w > 5) {
+//     console.log("okkkkkk");
+// }
+// else if(e < 10 || e <= 0){
+//     console.log("pikachu");
+// }
+// else if(b == 0 && e == 5){
+//     console.log("pikaboo");
+// }
+// else(
+//     console.log("default value")
+// )
+
+// x = 12;
+// y = 3;
+// z = 11;
+// if(x == 2 && x < 3){
+//     console.log(x);
+// }
+// if(x != 5){
+//     console.log("whatever");
+// }
+// if(x != 5 && y >= 5){
+//     console.log("its gonna happen");
+// }
+// if(z != 0 || x == 2){
+//     console.log("you say");
+// }
+// if(!(y < 10)){
+//     console.log(y);
+// }
+// else if(x < 10 || x < 5){
+//     console.log("okkkkkkk");
+// }
+// else if(y < 10 || y <= 0){
+//     console.log("pikachu");
+// }
+// else if(z == 0 && y ==5){
+//     console.log("Pikaboo");
+// }
+// else{
+//     console.log("Default value");
+// }
