@@ -225,36 +225,56 @@
 // }
 
 
-x = 2;
-y = 30;
-z = 12;
-if(x >= 4 && x <= 2){
-    console.log(x);
-}
-if(x != -15){
-    console.log("whatever");
-}
-if(x == 5 && y <= 4){
-    console.log("its gonna happen");
-}
-if(z > x && x < y || x == 2){
-    console.log("you say");
-}
-if(! (y < 3)){
-    console.log(y);
-}
-else if(y < 10 || z < 5){
-    console.log("okkkkkkk");
-}
-else if(z > 10 || y <= 100){
-    console.log("pikachu");
-}
-else if(z == 0 && y == 5){
-    console.log("Pikaboo");
-}
-else{
-    console.log("Default value");
-}
+// x = 2;
+// y = 30;
+// z = 12;
+// if(x >= 4 && x <= 2){
+//     console.log(x);
+// }
+// if(x != -15){
+//     console.log("whatever");
+// }
+// if(x == 5 && y <= 4){
+//     console.log("its gonna happen");
+// }
+// if(z > x && x < y || x == 2){
+//     console.log("you say");
+// }
+// if(! (y < 3)){
+//     console.log(y);
+// }
+// else if(y < 10 || z < 5){
+//     console.log("okkkkkkk");
+// }
+// else if(z > 10 || y <= 100){
+//     console.log("pikachu");
+// }
+// else if(z == 0 && y == 5){
+//     console.log("Pikaboo");
+// }
+// else{
+//     console.log("Default value");
+// }
+
+// DOM Manipulation
+// how to change the css styles using javascript :
+
+
+
+// document.querySelector(".heading").style.color = "rgba(37, 29, 59, 0.8)"
+// document.querySelector(".heading").style.fontSize = "100px"
+// document.querySelector(".heading1").style.color = "rgba(37, 29, 59, 0.8)"
+// document.querySelector(".heading1").style.fontSize = "100px"
+
+document.querySelector(".body").style.backgroundColor = "rgba(174, 214, 225, 0.8)"
+document.querySelector(".heading").style.textAlign = "center"
+document.querySelector("#heading1").style.textAlign = "center"
+
+const kirby = document.querySelectorAll(".kirby")
+for (let i = 0; i < kirby.length; i++) {
+    kirby[i].style.display = "inline-block";
+  }
+
 
 
 
