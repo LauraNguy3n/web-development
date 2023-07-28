@@ -12,24 +12,27 @@
    /* position: absolute; */
     color: white;
     text-align: center;
-    margin-top: 280px;
-    font-size: 55px;
-    font-weight: bolder;
+    margin-top: 220px;
+    font-size: 50px;
+    font-weight: 700;
+
 
 }
 
 #text_2{
+    margin-top: -10px;
     color: white;
     text-align: center;
-    font-size: 30px;
+    font-size: 25px;
 }
 
 #text_3{
 
     color: white;
     text-align: center;
-    font-size: 25px;
-    margin-top: 10px;
+    font-size: 22px;
+    margin-top: 33px;
+    
 }
 
 
@@ -37,10 +40,48 @@
     color: white;
     background-color: #E50914;
     font-size: 17px;
-    margin-left: 1565px;
-    margin-top: 25px;
+    margin-left: 1400px;
     border: 2px solid red;
     border-radius: 5%;
-    padding: 10px;
-    width: 100px;
+    padding: 6px;
+    width: 85px;
+    margin-top: -190px;
+}
+
+
+#logo{
+    margin-left: 190px;
+    margin-top: 16px;
+    display: inline-block;
+}
+
+
+.button_GetStarted{
+    color: white;
+    background-color: #E50914;
+    font-size: 27px;
+    margin-left: 947px;
+    border: 2px solid #E50914;
+    border-radius: 5%;
+    padding: 14px;
+    width: 220px;
+}
+
+
+.form-select{
+    color: white;
+    font-size: 20px;
+    width: 150px;
+    height: 40px;
+    border-radius: 7%;
+    margin-left: 870px;
+}
+
+.form-control{
+    color: white;
+    font-size: 19px;
+    width: 320px;
+    height: 50px;
+    border-radius: 7%;
+    margin-left: 590px;
 }
